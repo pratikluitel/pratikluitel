@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=pratikluitel&count_private=true&&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=pratikluitel&hide=stars&count_private=true&&show_icons=true)
 
 - 🔭 I’m currently working on multiple projects in Machine Learning and Web/Mobile development
 - 🌱 I’m currently learning React, React Native, nodejs and GANs
