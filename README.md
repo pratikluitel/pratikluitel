@@ -2,7 +2,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=pratikluitel&hide=stars&count_private=true&theme=radical&&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikluitel&theme=radical&hide=jupyter notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikluitel&theme=radical&hide=jupyter)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on multiple projects in Machine Learning and Web/Mobile development
 - 🌱 I’m currently learning React, React Native, nodejs and GANs
