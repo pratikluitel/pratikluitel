@@ -1,14 +1,27 @@
 ### Hey! 👋
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=pratikluitel&hide=stars&count_private=true&theme=radical&&show_icons=true)
+<details>
+    <summary>:zap: Github Stats</summary>
+    <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=pratikluitel&hide=stars&count_private=true&theme=radical&&show_icons=true" />
+</details>
 
 - 🔭 I’m currently working on multiple projects in Machine Learning and Web/Mobile development
 - 🌱 I’m currently learning React, React Native, nodejs and GANs
 - 📫 How to reach me: <a href="mailto:pluitel11@gmail.com" target="_blank">Email</a>, <a href="https://www.twitter.com/@pratikHluitel" target="_blank">Twitter</a>
-- [Check out my blog](https://pratikl.com.np)
+- <a href="https://pratikl.com.np" target="_blank">Check out my blog</a>
 
-[![Top three Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikluitel&theme=radical&hide=jupyter+notebook,css)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="pratik Spotify Playing" width="350" />](https://open.spotify.com/user/haw9iq59z70dij3c7jfy0t1ys?si=LhkEhwd7Q7SI40pb6yw0Ng)
+
+---
+
+<details>
+    <summary>Most Used Languages</summary>
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikluitel&theme=radical&hide=jupyter+notebook,css" />
+</details>
+
+
 
