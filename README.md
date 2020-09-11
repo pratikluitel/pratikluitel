@@ -14,7 +14,7 @@
 ---
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="pratik Spotify Playing" width="350" />](https://open.spotify.com/user/haw9iq59z70dij3c7jfy0t1ys?si=LhkEhwd7Q7SI40pb6yw0Ng)
+[<img src="https://spotify-now-playing-amber.vercel.app/api/spotify-playing" alt="pratik Spotify Playing" width="350" />](https://open.spotify.com/user/haw9iq59z70dij3c7jfy0t1ys)
 
 ---
 
