@@ -10,12 +10,6 @@
 - 📫 How to reach me: <a href="mailto:pluitel11@gmail.com" target="_blank">Email</a>, <a href="https://www.twitter.com/@pratikHluitel" target="_blank">Twitter</a>
 - <a href="https://pratikl.com.np" target="_blank">Check out my blog</a>
 
-
----
-
-### Spotify Playing 🎧
-[<img src="https://spotify-now-playing-amber.vercel.app/api/spotify-playing" alt="pratik Spotify Playing" width="350" />](https://open.spotify.com/user/haw9iq59z70dij3c7jfy0t1ys)
-
 ---
 
 <details>
