@@ -5,7 +5,7 @@
     <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=pratikluitel&hide=stars&count_private=true&theme=radical&&show_icons=true" />
 </details>
 
-- I’m currently working as a developer at [Ensemble Matrix](https://github.com/Ensemble-Matrix/).
+- I’m currently working as a developer at [Ensemble Matrix](https://github.com/Ensemble-Matrix/) - doing a bit of Computer Vision research, some backend development, and a tiiny bit of devops.
 - How to reach me: <a href="mailto:pluitel11@gmail.com" target="_blank">Email</a>
 
 ---
