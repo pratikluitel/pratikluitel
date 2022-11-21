@@ -6,7 +6,7 @@
 </details> -->
 
 - I’m currently working as a developer at [Ensemble Matrix](https://github.com/Ensemble-Matrix/) - doing a bit of Computer Vision research, some backend development, and a tiiny bit of devops.
-- Currently learning to build webservices with GoLang.
+- Currently learning Algorithms with GoLang.
 - How to reach me: <a href="mailto:mail@pratikluitel.com.np" target="_blank">Email</a>
 
 ---
