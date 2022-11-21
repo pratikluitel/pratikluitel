@@ -1,9 +1,9 @@
 ### Professional code tinkerer
 
-<details>
+<!-- <details>
     <summary>:zap: Github Stats</summary>
     <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=pratikluitel&hide=stars&count_private=true&theme=radical&&show_icons=true" />
-</details>
+</details> -->
 
 - I’m currently working as a developer at [Ensemble Matrix](https://github.com/Ensemble-Matrix/) - doing a bit of Computer Vision research, some backend development, and a tiiny bit of devops.
 - Currently learning to build webservices with GoLang.
