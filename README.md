@@ -12,7 +12,7 @@
 ---
 
 <summary>Most Used Languages</summary>
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikluite&layout=compactl&theme=radical&hide=jupyter+notebook,javascript,html,shell,c%2B%2B" />
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikluitel&layout=compactl&theme=radical&hide=jupyter+notebook,javascript,html,shell,c%2B%2B" />
 
 
 
