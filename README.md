@@ -6,7 +6,7 @@
 </details>
 
 - I’m currently working as a freelancer. 
-- Formerly Computer Vision research, backend and some devops at [Ensemble Matrix](https://github.com/Ensemble-Matrix/), and Data Analysis at [Deerwalk Inc.](https://www.deerwalk.com/)
+- Formerly Computer Vision research, Automation Engineering, and backend development at [Ensemble Matrix](https://github.com/Ensemble-Matrix/), and Data Analysis at [Deerwalk Inc.](https://www.deerwalk.com/)
 - Currently studying Algorithms with GoLang, and learning to build data pipelines.
 - How to reach me: <a href="mailto:mail@pratikluitel.com.np" target="_blank">Email</a>
 
