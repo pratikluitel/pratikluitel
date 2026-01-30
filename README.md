@@ -13,9 +13,4 @@
 - I have migrated to [Gitlab](https://gitlab.com/pratikluitel) for the time being, for work reasons. Still occasionally return to github when I have time for side projects.
 - How to reach me: <a href="mailto:mail@pratikluitel.com.np" target="_blank">Email</a>
 
----
-
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikluitel&layout=compact&theme=radical&hide=jupyter+notebook,javascript,html,shell,c%2B%2B" />
-
-
 
