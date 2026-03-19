@@ -1,10 +1,5 @@
 ### Professional code tinkerer
 
-<details>
-    <summary>:zap: Github Stats</summary>
-    <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=pratikluitel&hide=stars&count_private=true&theme=radical&&show_icons=true" />
-</details>
-
 - I’m currently working as a Backend Developer for IoT systems at [Smartmakers GmbH](https://smartmakers.io/en/).
 - Previously:
     - Data Analysis at [Deerwalk Inc.](https://www.deerwalk.com/)
